@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\projec1\projec1\bin\Debug\projec1.exe.config
+C:\Users\User\source\repos\projec1\projec1\bin\Debug\projec1.exe
+C:\Users\User\source\repos\projec1\projec1\bin\Debug\projec1.pdb
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.Form1.resources
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.Properties.Resources.resources
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.exe
+C:\Users\User\source\repos\projec1\projec1\obj\Debug\projec1.pdb
